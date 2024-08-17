@@ -114,7 +114,7 @@ def dealer_wins(chips):
 def push():
     print("Dealer and Player tie! It's a push.")
 
-# Main game logic
+# Main logic
 def play_blackjack():
     player_chips = Chips(total=int(input("Enter the starting chips for the player: ")))
     game_history = []
@@ -159,7 +159,7 @@ def play_blackjack():
             while dealer_hand.value < 17:
                 hit(deck, dealer_hand)
 
-            # Show all cards
+            # Show cards
             show_all(player_hand, dealer_hand)
 
             # Run different winning scenarios
