@@ -194,4 +194,6 @@ def play_blackjack():
 
 if __name__ == "__main__":
     play_blackjack()
-                                 # 
+                                -- # I cleaned up the code by using f-strings to make it easier to read when printing things like the player's chips. 
+                                   I also made the game history clearer so it’s easier to follow after each game.
+                                   Finally, I simplified a few functions to make them shorter without changing how they work.
