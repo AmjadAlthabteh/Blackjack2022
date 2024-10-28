@@ -1,2 +1,2 @@
 # Blackjack
-Play this Python Blackjack game to enjoy the thrill of winning chips, without the need for a disguise to avoid debt collectors. Remember, the dealer's hidden card is always the one that ruins your day
+Play this Python Blackjack game and win chips without dodging debt collectors! Just watch out for the dealer’s hidden card, it’s always the one that ruins your day.
